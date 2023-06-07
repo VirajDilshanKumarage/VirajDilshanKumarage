@@ -4,7 +4,9 @@
 - 👨‍💻 As a student, I have been exposed to various technologies and frameworks including ASP.NET, Spring Boot, Angular, and React.
 - 🌱 I’m currently learning new programming languages and frameworks to enhance my skills.
 - 💞️ I’m looking to collaborate on open source projects and interesting software development initiatives.
+- 🚀 With my adaptability, knowledge of various frameworks, and database expertise, I am ready to take on new challenges and contribute to innovative software development   projects.
 - 📫 You can reach me through my email: [ viraj123e@gmail.com ] or through my GitHub profile: [@VirajDilshanKumarage].
+
 
 <!---
 VirajDilshanKumarage/VirajDilshanKumarage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
